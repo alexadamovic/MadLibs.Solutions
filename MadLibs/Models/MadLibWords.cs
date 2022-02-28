@@ -2,6 +2,7 @@ namespace MadLibs.Models
 {
   public class MadLibWords
   {
+    public string MadLib {get; set;}
     public string Adjective1 {get; set;}
     public string Adjective2 {get; set;}
     public string Adjective3 {get; set;}
